@@ -1,0 +1,22 @@
+
+import './projects.css';
+
+// Teste
+  const testResponse = await fetch('http://localhost:3001/teste', { cache: 'no-cache' });
+  const teste = await testResponse.json();
+
+{/* <ul>
+        {teste.map(test => (
+          <li key={teste.id} className='test mb-4'>
+            <img src={test.img} alt="" height={250} width={250}/>
+            <div>
+              <div>{test.nome}</div>
+              <div>{test.idade}</div>
+              <div>{test.salario}</div>
+            </div>
+            <iframe width="560" height="315"
+            src={`https://www.youtube.com/embed/${test.trailer}`} title="YouTube video player"
+            frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+          </li>
+        ))}
+      </ul> */}

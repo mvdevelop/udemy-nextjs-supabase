@@ -1,0 +1,53 @@
+
+{
+  "repos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "The project",
+      "stargazers_count": 250
+    },
+    {
+      "id": 2,
+      "title": "vue-interactive-dashboard",
+      "description": "A Vue.js project for creating dynamic and interactive dashboards with real-time data visualization.",
+      "stargazers_count": 15
+    },
+    {
+      "id": 3,
+      "title": "nuxt-ecommerce-platform",
+      "description": "A Nuxt.js based e-commerce platform with server-side rendering for improved SEO and performance.",
+      "stargazers_count": 22
+    },
+    {
+      "id": 4,
+      "title": "typescript-express-api",
+      "description": "A robust backend API built with TypeScript and Express, featuring RESTful architecture and JWT authentication.",
+      "stargazers_count": 34
+    },
+    {
+      "id": 5,
+      "title": "elastic-blog-search",
+      "description": "A search engine for blog posts, implemented using ElasticSearch to provide fast and accurate search results.",
+      "stargazers_count": 18
+    }
+  ],
+  "teste": [
+    {
+      "id": 1,
+      "nome": "Drak Lians",
+      "idade": 28,
+      "salario": 10000,
+      "img": "https://www.shutterstock.com/image-vector/symbolic-fist-has-mainly-represented-600nw-2467298417.jpg",
+      "trailer": "ZmJD-7A6H2A?si=2Ld9wfKPo7Wsk7_E"
+    },
+    {
+      "id": 2,
+      "nome": "Vinicius Dilly",
+      "idade": 31,
+      "salario": 5400,
+      "img": "https://media.istockphoto.com/id/515050701/vector/labor.jpg?s=612x612&w=0&k=20&c=ZjqzVXORL0aYB15TB_uZXCe1bfH63n19m4E13rySLiY=",
+      "trailer": "ZmJD-7A6H2A?si=2Ld9wfKPo7Wsk7_E"
+    }
+  ]
+}
