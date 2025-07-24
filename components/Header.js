@@ -2,14 +2,12 @@
 
 import React from 'react';
 
-import Counter from './Counter';
 import Navigation from './Navigation';
 
 export default function Header() {
   return (
     <header>
       <Navigation />
-      <Counter />
     </header>
   );
 }
